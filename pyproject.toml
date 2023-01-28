@@ -27,7 +27,7 @@ classifiers = [
 "Changelog" = "https://github.com/rlaphoenix/pywidevine/blob/master/CHANGELOG.md"
 
 [tool.poetry.dependencies]
-python = ">=3.7,<3.11"
+python = "3.11.1"
 protobuf = "4.21.6"
 pymp4 = "^1.2.0"
 pycryptodome = "^3.15.0"
