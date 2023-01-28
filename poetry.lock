@@ -278,7 +278,7 @@ serve = ["aiohttp", "PyYAML"]
 
 [metadata]
 lock-version = "1.1"
-python-versions = ">=3.7,<3.11"
+python-versions = "3.11.1"
 content-hash = "d0658d6c8f08997e9ebd6a12e2613f76275c21b7c133e2e976d16f8b63c9437f"
 
 [metadata.files]
