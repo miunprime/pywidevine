@@ -42,7 +42,7 @@ Check it out with `pywidevine --help` - Voilà 🎉!
 The following steps are instructions on download, preparing, and running the code under a Poetry environment.
 You can skip steps 3-5 with a simple `pip install .` call instead, but you miss out on a wide array of benefits.
 
-1. `git clone https://github.com/rlaphoenix/pywidevine`
+1. `git clone https://github.com/miunprime/pywidevine`
 2. `cd pywidevine`
 3. (optional) `poetry config virtualenvs.in-project true` 
 4. `poetry install`
